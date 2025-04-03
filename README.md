@@ -44,18 +44,4 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-### 
-
-<div align="center">
-  <a href="https://github.com/Tahachabat">
-    <img src="https://img.shields.io/github/followers/Tahachabat?style=social" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Tahachabat">
-    <img src="https://img.shields.io/github/stars/Tahachabat?style=social" alt="GitHub stars" />
-  </a>
-  <a href="https://github.com/Tahachabat">
-    <img src="https://img.shields.io/github/forks/Tahachabat?style=social" alt="GitHub forks" />
-  </a>
-</div>
-
 ###
